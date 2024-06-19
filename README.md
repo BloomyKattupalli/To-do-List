@@ -1,7 +1,7 @@
 # To-do-List
 
 ## Outline
-This is a C++ code that displays your To-do Lists
+This is a C++ code that displays your To-do Lists. Complie and Run the main.cpp file in terminal .
 
 ## Instructions
 
